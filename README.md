@@ -1,3 +1,24 @@
+<div align="center">
+  <br />
+    <a href="https://youtu.be/rOpEN1JDaD0?si=WfOjLV57WfR9x6QK" target="_blank">
+      <img src="https://i.ibb.co/xtTbHkfs/Readme-Thumbnail.png" alt="Project Banner">
+    </a>
+  <br />
+  
+  <div>
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="node.js" />
+    <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
+    <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  </div>
+
+  <h3 align="center">A Subscription Management System API</h3>
+
+   <div align="center">
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+    </div>
+</div>
+
+
 ## <a name="introduction">🤖 Introduction</a>
 
 Build a **Subscription Management System API** that handles **real users, real money, and real business logic**.  
