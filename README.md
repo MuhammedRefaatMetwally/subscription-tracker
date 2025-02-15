@@ -15,7 +15,7 @@
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-     Youtube Link : https://www.youtube.com/watch?v=rOpEN1JDaD0&ab_channel=JavaScriptMastery
+     <br/> Youtube Link : https://www.youtube.com/watch?v=rOpEN1JDaD0&ab_channel=JavaScriptMastery
     </div>
 </div>
 
